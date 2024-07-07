@@ -1,4 +1,4 @@
-# Hey There! 👋
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Mokkapps GitHub README header image">
 **I'm Thijs** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,docker,figma,spring)](https://skillicons.dev)<br/>

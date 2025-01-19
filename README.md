@@ -21,9 +21,9 @@ Dedicated to crafting dynamic, user-friendly web applications and robust backend
 <h2 align="center">🌟 Technical Expertise</h2>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-  <div>
+  <div style="flex: 1; margin: 10px;">
     <h3>Frontend Technologies</h3>
-    <ul style="display: flex;>
+    <ul>
       <li><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/> React.js</li>
       <li><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript</li>
       <li><img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS</li>
@@ -31,7 +31,7 @@ Dedicated to crafting dynamic, user-friendly web applications and robust backend
     </ul>
   </div>
 
-  <div>
+  <div style="flex: 1; margin: 10px;">
     <h3>Backend Technologies</h3>
     <ul>
       <li><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> PHP</li>
@@ -40,7 +40,7 @@ Dedicated to crafting dynamic, user-friendly web applications and robust backend
     </ul>
   </div>
 
-  <div>
+  <div style="flex: 1; margin: 10px;">
     <h3>Deployment Platforms</h3>
     <ul>
       <li><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> AWS</li>
@@ -84,4 +84,3 @@ I’m passionate about learning and experimenting with new technologies to stay 
 </div>
 
 <br/>
-

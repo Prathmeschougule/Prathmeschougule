@@ -20,32 +20,40 @@ Dedicated to crafting dynamic, user-friendly web applications and robust backend
 
 <h2 align="center">🌟 Technical Expertise</h2>
 
-<h3>Frontend Technologies</h3>
-<ul>
-<li> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/> React.js</li>
-<li> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript</li>
-<li> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS</li>
-<li> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> Bootstrap</li>
-</ul>
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+  <div>
+    <h3>Frontend Technologies</h3>
+    <ul>
+      <li><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/> React.js</li>
+      <li><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript</li>
+      <li><img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS</li>
+      <li><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> Bootstrap</li>
+    </ul>
+  </div>
 
-<h3>Backend Technologies</h3>
-<ul>
-<li> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> PHP</li>
-<li> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> Spring Boot</li>
-<li> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> Java</li>
-</ul>
+  <div>
+    <h3>Backend Technologies</h3>
+    <ul>
+      <li><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> PHP</li>
+      <li><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> Spring Boot</li>
+      <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> Java</li>
+    </ul>
+  </div>
 
-<h3>Deployment Platforms</h3>
-<ul>
-<li> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> AWS</li>
-<li> <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Hostinger"/> Hostinger</li>
-</ul>
+  <div>
+    <h3>Deployment Platforms</h3>
+    <ul>
+      <li><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> AWS</li>
+      <li><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Hostinger"/> Hostinger</li>
+    </ul>
+  </div>
+</div>
 
 <h2 align="center">🚀 What I Do</h2>
 <ul>
-<li>Develop full-stack applications with seamless integration between the frontend and backend.</li>
-<li>Solve real-world problems using clean, efficient, and maintainable code.</li>
-<li>Deploy applications on reliable platforms to ensure smooth performance.</li>
+  <li>Develop full-stack applications with seamless integration between the frontend and backend.</li>
+  <li>Solve real-world problems using clean, efficient, and maintainable code.</li>
+  <li>Deploy applications on reliable platforms to ensure smooth performance.</li>
 </ul>
 
 <h2 align="center">🌱 My Journey</h2>
@@ -63,7 +71,7 @@ I’m passionate about learning and experimenting with new technologies to stay 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Prathmeschougule" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -76,3 +84,4 @@ I’m passionate about learning and experimenting with new technologies to stay 
 </div>
 
 <br/>
+

@@ -33,7 +33,7 @@ Dedicated to crafting dynamic, user-friendly web applications and robust backend
 
   <div style="flex: 1; margin: 10px;">
     <h3>Backend Technologies</h3>
-    <ul>
+    <ul style="flex">
       <li><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> PHP</li>
       <li><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> Spring Boot</li>
       <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> Java</li>

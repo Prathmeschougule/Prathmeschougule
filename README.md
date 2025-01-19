@@ -10,17 +10,8 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently Findiang Intership  as **a Java Devloper **
- 
- 🌱 I’m currently learning **Docker, MongoDB, AWS**
-
-💬 Ask me about **React.js, Java, Spring... or anything [here](https://www.linkedin.com/in/prathmesh-chougule-693710263/)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+ 🔭 I’m currently Doing  Intership  as a  ** Software Developer  **
  </div>
- 
 <div align="center"> 
   <a href="https://github.com/Prathmeschougule">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

@@ -23,7 +23,7 @@ Dedicated to crafting dynamic, user-friendly web applications and robust backend
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
   <div>
     <h3>Frontend Technologies</h3>
-    <ul>
+    <ul style="display: flex;>
       <li><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/> React.js</li>
       <li><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript</li>
       <li><img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS</li>

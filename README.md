@@ -12,6 +12,45 @@
 <div align="center">
  🔭 I’m currently Doing  Intership  as a  ** Software Developer  **
  </div>
+# 👨‍💻 Software Developer
+
+**Dedicated to crafting dynamic, user-friendly web applications and robust backend solutions.**
+
+## 🌟 Technical Expertise
+
+### Frontend Technologies
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+
+### Backend Technologies
+- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+
+### Deployment Platforms
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
+- ![Hostinger](https://img.icons8.com/color/48/000000/domain.png) Hostinger
+
+## 🚀 What I Do
+
+- Develop full-stack applications with seamless integration between the frontend and backend.
+- Solve real-world problems using clean, efficient, and maintainable code.
+- Deploy applications on reliable platforms to ensure smooth performance.
+
+## 🌱 My Journey
+
+I’m passionate about learning and experimenting with new technologies to stay updated in this ever-evolving tech landscape. My focus is on building scalable and secure applications while maintaining a strong foundation in core development principles.
+
+---
+
+Feel free to explore my projects and repositories below. Let’s build something amazing together! ✨
+
+
+
+
+ 
 <div align="center"> 
   <a href="https://github.com/Prathmeschougule">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

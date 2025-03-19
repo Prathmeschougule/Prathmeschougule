@@ -18,36 +18,7 @@
 Dedicated to crafting dynamic, user-friendly web applications and robust backend solutions.
 </p>
 
-<h2 align="center">🌟 Technical Expertise</h2>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <h3>Frontend Technologies</h3>
-    <ul>
-      <li><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/> React.js</li>
-      <li><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript</li>
-      <li><img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS</li>
-      <li><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> Bootstrap</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; margin: 10px;">
-    <h3>Backend Technologies</h3>
-    <ul style="flex">
-      <li><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> PHP</li>
-      <li><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> Spring Boot</li>
-      <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> Java</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; margin: 10px;">
-    <h3>Deployment Platforms</h3>
-    <ul>
-      <li><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> AWS</li>
-      <li><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Hostinger"/> Hostinger</li>
-    </ul>
-  </div>
-</div>
 
 <h2 align="center">🚀 What I Do</h2>
 <ul>

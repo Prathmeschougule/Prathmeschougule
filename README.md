@@ -1,67 +1,111 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prathmeschougule.prathmeschougule" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathmesh+Chougule!;" alt="Typing SVG" />
+  Hi 👋, I'm Prathmesh Chougule
 </h1>
 
-<h3 align="center">A Passionate Full Stack Developer</h3>
-
-<br/>
-
-<div align="center">
- 🔭 Currently working as a <b>Software Devloper  </b>
-</div>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h3 align="center">
+Full Stack Developer | Python • FastAPI • Java • Spring Boot • React.js
+</h3>
 
 <p align="center">
-I'm a dedicated Java developer focused on building dynamic, user-friendly web applications and robust backend systems. With a strong foundation in core development principles, I enjoy solving real-world problems through clean, efficient, and scalable code.
+Building scalable web applications, REST APIs, and modern user experiences.
 </p>
 
 ---
 
-<h2 align="center">🚀 What I Do</h2>
+## 🚀 About Me
 
-<ul>
-  <li>⚙️ Develop full-stack applications with seamless integration between frontend and backend.</li>
-  <li>🧠 Solve real-world problems using clean and maintainable code.</li>
-  <li>🚀 Deploy applications on reliable platforms for optimal performance.</li>
-</ul>
+💼 Software Developer with nearly **2 years of experience** building scalable web applications using **Python (FastAPI), Java (Spring Boot), React.js, and MySQL**.
 
----
+I enjoy designing clean architectures, solving real-world problems, and developing high-performance applications with a focus on scalability, maintainability, and security.
 
-<h2 align="center">🌱 My Journey</h2>
+- 🔭 Currently working as a **Software Developer**
+- 🌱 Learning **System Design, Kubernetes & Advanced AWS**
+- 💬 Ask me about **FastAPI, React, Spring Boot, REST APIs, SQL**
+- ⚡ Fun fact: I love optimizing APIs and solving coding challenges.
+
+<h2 align="left">⚒️ Tech Stack</h2>
+
+<table align="center" width="1000%">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,aws,git,github,postman" />
+</p>
+
+</td>
+</tr>
+
+</table>
+
+## 📈 GitHub Stats
 
 <p align="center">
-I’m passionate about continuously learning and experimenting with emerging technologies to keep up with the ever-evolving tech landscape. My goal is to contribute to scalable and secure applications while growing as a full-stack developer.
+
+
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=prathmeschougule&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+## 📫 Connect With Me
 
-<div align="center"> 
-  <a href="mailto:prathmeschougule@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prathmeschougule" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://prathmeschougule.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+<p align="center">
 
----
+<a href="mailto:prathmeshuix@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
+<a href="https://www.linkedin.com/in/prathmeschougule">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,nodejs,mongodb,sql,docker,git,github,figma,xd" alt="Tech Stack Icons" />
-</div>
+<a href="https://prathmeschougule.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
-

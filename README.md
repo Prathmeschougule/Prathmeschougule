@@ -16,7 +16,7 @@ Building scalable web applications, REST APIs, and modern user experiences.
 
 ## 🚀 About Me
 
-💼 Software Developer with nearly **2 years of experience** building scalable web applications using **Python (FastAPI), Java (Spring Boot), React.js, and MySQL**.
+💼 Software Developer building scalable web applications using **Python (FastAPI), Java (Spring Boot), React.js, and MySQL**.
 
 I enjoy designing clean architectures, solving real-world problems, and developing high-performance applications with a focus on scalability, maintainability, and security.
 
